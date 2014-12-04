@@ -7,7 +7,9 @@ public class ExamenCOD {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
- int iN = 11;
+/*j=16,aux true, v=17||j=2, aux true,v=11
+        */
+        int iN = 11;
             	if (metodoMio(iN))
 System.out.println("Es numero primo");
 else
